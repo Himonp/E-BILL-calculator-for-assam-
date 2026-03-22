@@ -1,11 +1,10 @@
 # Electricty-BILL-calculator
-#  Electricity Bill Calculator
 
 A web app to calculate and generate electricity bills instantly.
 Built by **Himon Protim Medhi**
 
 ## 🔗 Live App
-[Click here to open the app](https://himonp.github.io/Electricty-BILL-calculator)
+[Click here to open the app](https://himonp.github.io/Electricty-Bill-calculator/)
 
 ##  Features
 - Enter previous and current meter readings to calculate units consumed
@@ -19,6 +18,6 @@ Built by **Himon Protim Medhi**
 - HTML, CSS, JavaScript
 - html2canvas (for bill image export)
 
-## 💡 Why I Built This
+##  Why I Built This
 My fmily needed a simple way to calculate and share electricity bills.
 This is my first web project — built and deployed independently.
