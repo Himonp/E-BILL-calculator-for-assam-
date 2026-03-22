@@ -1,2 +1,2 @@
-# E-BILL-calculator-for-assam-
-Calculator for Electricity For assam
+# Electricty-BILL-calculator
+Calculator for Electricity 
